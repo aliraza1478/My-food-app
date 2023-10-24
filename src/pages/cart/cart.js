@@ -2,6 +2,7 @@ import { Link } from "react-router-dom"
 import { useCart } from "../../context/cart"
 import "./cart.css"
 
+
 const SHIPPING_CHARGES = 25
 
 const Cart = () => {
